@@ -1,10 +1,3 @@
-# project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 # CPDF_Project
 *TIC TAC TOE GAME- Flutter Project*
